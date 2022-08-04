@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mint-react-page/static/css/main.a21a67ef.css",
+    "main.js": "/Mint-react-page/static/js/main.06311f04.js",
+    "static/js/529.c49eea4a.chunk.js": "/Mint-react-page/static/js/529.c49eea4a.chunk.js",
+    "index.html": "/Mint-react-page/index.html",
+    "main.a21a67ef.css.map": "/Mint-react-page/static/css/main.a21a67ef.css.map",
+    "main.06311f04.js.map": "/Mint-react-page/static/js/main.06311f04.js.map",
+    "529.c49eea4a.chunk.js.map": "/Mint-react-page/static/js/529.c49eea4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a21a67ef.css",
+    "static/js/main.06311f04.js"
+  ]
+}
